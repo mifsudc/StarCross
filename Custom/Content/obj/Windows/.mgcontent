@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/bullet.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/test.spritefont</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/particle.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/AStar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/BlackHole.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/Bstar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/FStar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/GStar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/KStar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/MStar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/OStar.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/WhiteDwarf.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/background.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/player.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/galaxy.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/marker.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/music.wav</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/planet.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/alien.png</File>
+    <File>C:/Users/Cory Mifsud/Documents/OOP/Custom/Custom/Custom/Content/npc.png</File>
+  </SourceFiles>
+</SourceFileCollection>
